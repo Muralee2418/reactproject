@@ -1,0 +1,4 @@
+1.Hooks should starts with "use"
+2.The order of hooks should be same ie., it should not be called inside branching or looping statements
+3.hooks should be called on top order not inside any blocks like, branching, looping or nested functions
+4.hooks should be used inside function comp not in regular functions
